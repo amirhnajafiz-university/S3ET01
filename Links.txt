@@ -1,0 +1,9 @@
+https://www.thesslstore.com/blog/air-gapped-computer/ : A total explanation
+
+https://www.wired.com/story/extreme-security-measures/
+
+https://www.troopmessenger.com/blogs/air-gapped-networks-computer : A good source
+
+https://www.belden.com/blog/industrial-security/network-air-gapping
+
+https://www.pcmag.com/news/black-hat-researcher-shows-why-air-gaps-wont-protect-your-data
