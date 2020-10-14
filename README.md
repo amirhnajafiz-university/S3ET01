@@ -1,8 +1,15 @@
 # Air-gap
+
 # Intro
+This is a presentation of Air-gap system and Air-gap networks.
 
-In the name of "Allah"
+All the sources and the ppx of the presentation are added.
 
-Collect every useful data about air-gap and push it here. 
+This was our "English as Technical language" project. Init we explain the air-gap and show its flaws.
 
-We will start at Wed 30 Sept 2020
+# Contributes
+Amir mohammad Babaie
+
+Amir hossein Najafizadeh
+
+Staredt at Wed 30 Sept 2020
