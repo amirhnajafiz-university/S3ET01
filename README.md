@@ -1,15 +1,16 @@
 # Air-gap
 
-# Intro
-This is a presentation of Air-gap system and Air-gap networks.
+## Intro
+This is a presentation of Air-gap system and Air-gap networks.<br />
+This was our "English as Technical language" project. Init we explain the air-gap and show its flaws.<br />
 
-All the sources and the ppx of the presentation are added.
+## Sources
+  * [Basics](https://www.thesslstore.com/blog/air-gapped-computer/)
+  * [Security](https://www.thesslstore.com/blog/air-gapped-computer/)
+  * [Networks](https://www.troopmessenger.com/blogs/air-gapped-networks-computer)
+  * [Air-gapping](https://www.belden.com/blog/industrial-security/network-air-gapping)
+  * [Data Protection](https://www.pcmag.com/news/black-hat-researcher-shows-why-air-gaps-wont-protect-your-data)
 
-This was our "English as Technical language" project. Init we explain the air-gap and show its flaws.
-
-# Contributes
-Amir mohammad Babaie
-
-Amir hossein Najafizadeh
-
-Staredt at Wed 30 Sept 2020
+## Contributes
+  * [Amir mohammad Babaie](https://github.com/AmirMohamadBabaee)
+  * [Amir hossein Najafizadeh](https://github.com/amirhnajafiz)
